@@ -25,7 +25,7 @@ const updateOutput = (name, value) => {
 
 const crypto = {
   LABEL: 'crypto',
-  apiKey: '',
+  apiKey: '7928ae85e0b5ab98549ae730929f90ac2caa90e664ff22777aae499c5206e22d',
   url: 'https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD,RUB',
 
   update() {
